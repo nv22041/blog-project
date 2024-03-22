@@ -1,11 +1,10 @@
-import './App.css'
-
+import './App.css';
+import Homepage from "./pages/HomePage.jsx";
 
 function App() {
   return (
     <div className="App">
-      <h1 className='text-red-500 text-5xl'>hello world</h1>
-      
+      <Homepage />
     </div>
   );
 }
