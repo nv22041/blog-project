@@ -1,10 +1,10 @@
-import './App.css';
-import Homepage from "./pages/HomePage.jsx";
+import "./App.css";
+import HomePage from "./pages/HomePage";
 
 function App() {
   return (
-    <div className="App">
-      <Homepage />
+    <div className="App font-opensans">
+      <HomePage />
     </div>
   );
 }

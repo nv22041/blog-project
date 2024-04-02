@@ -10,4 +10,4 @@ const MainLayout = ({children}) => {
     </div>
 };
 
-export default MainLayout
+export default MainLayout;
