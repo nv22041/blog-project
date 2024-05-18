@@ -2,8 +2,8 @@ import React from "react";
 import { FaArrowRight } from "react-icons/fa";
 import { useSelector, useDispatch } from "react-redux";
 
-import ArticleCard from "../../../components/ArticleCard";
-import { changeCount } from "../../../store/actions/countActions";
+import ArticleCard from "../../components/ArticleCard";
+import { changeCount } from "../../store/actions/countActions";
 
 const Articles = () => {
   const dispatch = useDispatch()

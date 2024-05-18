@@ -50,4 +50,4 @@ const ArticleCard = ({ className }) => {
   );
 };
 
-export default ArticleCard;
+export default ArticleCard
